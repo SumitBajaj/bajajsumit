@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'AlternateGothicNo2AT';
-    src: url('fonty/gothic.eot');
-    src: url('fonty/gothic.eot?#iefix') format('embedded-opentype'),
-         url('fonty/gothic.woff') format('woff'),
-         url('fonty/gothic.ttf') format('truetype'),
-         url('fonty/gothic.svg#AlternateGothicNo2') format('svg');
+    src: url('../font/gothic.eot');
+    src: url('../font/gothic.eot?#iefix') format('embedded-opentype'),
+         url('../font/gothic.woff') format('woff'),
+         url('../font/gothic.ttf') format('truetype'),
+         url('../font/gothic.svg#AlternateGothicNo2') format('svg');
     font-weight: normal;
     font-style: normal;}
 
