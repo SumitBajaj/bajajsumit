@@ -1,7 +1,7 @@
 {
-  "name": "angular-scenario",
+  "name": "angular-cookies",
   "version": "1.2.16",
-  "main": "./angular-scenario.js",
+  "main": "./angular-cookies.js",
   "dependencies": {
     "angular": "1.2.16"
   }
