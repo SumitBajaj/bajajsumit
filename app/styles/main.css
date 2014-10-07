@@ -636,3 +636,11 @@ textarea { overflow: auto;}
 ::-moz-selection {
   background: #5ed0ed;
   color: #fff;}
+
+#slideShow{
+  /*margin:150px auto 0;*/
+  border:7px solid lightgray;
+  width:635px;
+  height:415px;
+  /*box-shadow:5px 5px 0 rgba(22,22,22,0.3);*/
+}
