@@ -1,11 +1,11 @@
-*{
+/**{
 	margin:0;
 	padding:0;
 }
 
 html{
-	/*background: url('../img/bg_tile.jpg') #383839;*/
-}
+	background: url('../img/bg_tile.jpg') #383839;
+}*/
 
 /*body{
 	color:#fcfcfc;
@@ -14,15 +14,15 @@ html{
 	min-height: 650px;
 }*/
 
-a, a:visited {
+/*a, a:visited {
 	text-decoration:none;
 	outline:none;
-	color:#aaa;
+	color:#fff;
 }
 
 a:hover{
 	text-decoration:underline;
-}
+}*/
 
 #slideShow{
 	/*margin:150px auto 0;*/
