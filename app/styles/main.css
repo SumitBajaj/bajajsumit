@@ -644,3 +644,32 @@ textarea { overflow: auto;}
   height:415px;
   /*box-shadow:5px 5px 0 rgba(22,22,22,0.3);*/
 }
+
+#sumit_bajaj_website {
+  width: 100%;
+  height: 480px;
+  position: relative;
+  margin: 215px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  float: left;
+  text-align: left;
+  font-size: 14px;
+  color: #231f20;
+  line-height: 160%;
+  font-family: "Trebuchet MS", "Geneva CE", lucida, sans-serif;
+  }
+
+#sumit_bajaj_website h1 {  
+  top: 52px;
+  left: 280px;
+  font-size: 48px;
+  color: #ef315e;}
+
+
+.website
+{  
+  margin-right:20px;
+  float:left;
+ -webkit-box-shadow: 2px 2px 10px 5px rgba(100,100,100,100);
+box-shadow: 2px 2px 10px 5px rgba(100,100,100,100);
+}
