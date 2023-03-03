@@ -14,6 +14,9 @@ export default function NavBar() {
                     <Link href="/">{"< Home />"}</Link>
                 </li>
                 <li>
+                    <Link href="http://blogs.bajajsumit.com">Tech Blogs</Link>
+                </li>
+                <li>
                     <Link href="/#about">About Me</Link>
                 </li>
             </ul>

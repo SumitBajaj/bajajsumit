@@ -9,26 +9,28 @@ export default function About() {
                     <AboutCard
                         title="Architecture"
                         icon="/icons/design.svg"
-                        description="I create design  products with unique ideas."
+                        description="I design the products keeping resilence, robustness and scalability in mind."
                         projects={7} />
                     <AboutCard
                         title="Software Engineering"
                         icon="/icons/code.svg"
-                        description="I develop Front-End with coding super smooth."
-                        projects={10} />
+                        description="I adopt all those best practices which can automate the work and provide more time to business development."
+                        projects={15} />
                     <AboutCard
-                        title="Application Development"
+                        title="Value proposition"
                         icon="/icons/phone.svg"
-                        description="I develop cross-platform mobile applications."
-                        projects={7} />
+                        description="I focus on impact of the craft which can add value for clients and drive success to them."
+                        projects={5} />
                 </div>
                 
                 <div className="flex-full about-text">
                     <h5 className="gray">Introduce</h5>
                     <h1 className="white">Hello, I&#39;m Sumit Bajaj</h1>
                     <h3 className="white">Architecture is not just what application looks like. Architecture is how application can scale without distruption!</h3>
-                    <p className="gray">I have proceeded my dream to be an engineer as it has been my lifelong ambition. I am a professional and seasoned architect with a hands-on experience. During my 16 years of work, I had the opportunity to enhance my expertise by collaborating with different clients/stakeholders and digitizing their business and growth.<br/><br/>
-                    I am an extrovert, confident, innovative and constantly challenging my skills.</p>
+                    <p className="gray">I am a professional & seasoned architect with hands-on experience. During my 16 years of work, I had the opportunity to enhance my expertise by collaborating with different clients/stakeholders and digitizing their business and growth.<br/><br/>
+                    I am an extrovert, confident, innovative and constantly challenging my skills.<br/><br/>
+                    Primary skills are Sitecore, .Net, C#, Microservices, Cloud Migration, Microservices, docker, k8s.<br/><br/>
+                    Secondry skills are Terraforms, python, reactJS. </p>
                 </div>
             </div>
 
