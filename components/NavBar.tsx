@@ -19,6 +19,9 @@ export default function NavBar() {
                 <li>
                     <Link href="/#about">About Me</Link>
                 </li>
+                <li>
+                    <Link href="mailto:email.bajaj@gmail.com">Let's Connect</Link>
+                </li>
             </ul>
         </nav>
     )

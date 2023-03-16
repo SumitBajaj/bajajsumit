@@ -10,6 +10,11 @@ export default function Footer() {
             <span className="white">Copyright © {year} <Link href="/">Sumit Bajaj</Link> - All rights reserved.</span>
             <ul className="flex">
                 <li>
+                    <a href="mailto:email.bajaj@gmail.com" target="_blank" rel="noreferrer">
+                        <Image src="/icons/envelope.svg" width={24} height={24} alt="email-icon" />
+                    </a>
+                </li>   
+                <li>
                     <a href="https://www.facebook.com/sumit.bajaj.india" target="_blank" rel="noreferrer">
                         <Image src="/icons/facebook.svg" width={24} height={24} alt="facebook-icon" />
                     </a>

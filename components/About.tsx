@@ -18,7 +18,7 @@ export default function About() {
                         projects={15} />
                     <AboutCard
                         title="Value proposition"
-                        icon="/icons/phone.svg"
+                        icon="/icons/chart-pie.svg"
                         description="I focus on impact of the craft which can add value for clients and drive success to them."
                         projects={5} />
                 </div>

@@ -13,7 +13,8 @@ export default function Header() {
                     <h1 className="white">Talk is cheap.</h1>
                     <h1 className="white">Show me the code!</h1>
                     <p className="gray">I design and code beautiful simple things, and I love what I do.</p>
-                    <a className="green" href="mailto:email.bajaj@gmail.com">Let&#39;s connect!</a>
+                    <a className="green" href="http://blogs.bajajsumit.com">Have a look at some of my craftwork</a>
+                    {/* <a className="green" href="mailto:email.bajaj@gmail.com">Let&#39;s connect!</a> */}
                 </div>
                 <Image src="/images/sumit-profile.png" width={713} height={513} alt="sumit-profile"  /> 
             </div>
