@@ -26,7 +26,7 @@ export default function About() {
                 <div className="flex-full about-text">
                     <h5 className="gray">Introduce</h5>
                     <h1 className="white">Hello, I&#39;m Sumit Bajaj</h1>
-                    <h3 className="white">Architecture is not just what application looks like. Architecture is how application can scale without distruption!</h3>
+                    <h3 className="white">Architecture is not just what application looks like. Architecture is how application can scale without disruption!</h3>
                     <p className="gray">I am a professional & seasoned architect with hands-on experience. During my 16 years of work, I had the opportunity to enhance my expertise by collaborating with different clients/stakeholders and digitizing their business and growth.<br/><br/>
                     I am an extrovert, confident, innovative and constantly challenging my skills.<br/><br/>
                     Primary skills are Sitecore, .Net, C#, Microservices, Cloud Migration, Microservices, docker, k8s.<br/><br/>
