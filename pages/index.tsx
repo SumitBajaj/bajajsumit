@@ -23,6 +23,7 @@ const Home: NextPage = () => {
         <meta data-rh="true" property="og:type" content="website"/>
         <meta data-rh="true" property="og:title" content="Sumit Bajaj - Principal Architect"/>
         <meta data-rh="true" property="og:image" content="/images/sumit-profile.png"/>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4955229393268155" crossOrigin="anonymous"></script>
       </Head>
 
       {/* Header */}
