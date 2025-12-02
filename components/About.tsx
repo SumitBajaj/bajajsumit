@@ -7,6 +7,11 @@ export default function About() {
             <div className="flex">
                 <div className="flex-full">
                     <AboutCard
+                        title="Agentic AI"
+                        icon="/icons/chart-pie.svg"
+                        description="I build intelligent AI agents that automate complex workflows, drive operational efficiency, and deliver measurable ROI for clients."
+                        projects={3} />
+                    <AboutCard
                         title="Architecture"
                         icon="/icons/design.svg"
                         description="I design the products keeping resilence, robustness and scalability in mind."
@@ -28,9 +33,10 @@ export default function About() {
                     <h1 className="white">Hello, I&#39;m Sumit Bajaj</h1>
                     <h3 className="white">Architecture is not just what application looks like. Architecture is how application can scale without disruption!</h3>
                     <p className="gray">I am a professional & seasoned architect with hands-on experience. During my 16 years of work, I had the opportunity to enhance my expertise by collaborating with different clients/stakeholders and digitizing their business and growth.<br/><br/>
+                    I specialize in building agentic AI solutions that transform business operations. My AI agents autonomously handle complex tasks, reduce operational costs by up to 60%, and accelerate decision-making processes. I help clients unlock new revenue streams through intelligent automation and data-driven insights.<br/><br/>
                     I am an extrovert, confident, innovative and constantly challenging my skills.<br/><br/>
-                    Primary skills are Sitecore, .Net, C#, Microservices, Cloud Migration, Microservices, docker, k8s.<br/><br/>
-                    Secondry skills are Terraforms, python, reactJS. </p>
+                    Primary skills are Sitecore, .Net, C#, Microservices, Cloud Migration, docker, k8s, AI/ML, LLMs, Agentic AI.<br/><br/>
+                    Secondary skills are Terraform, Python, ReactJS, Vector Databases, RAG systems. </p>
                 </div>
             </div>
 
